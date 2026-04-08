@@ -3,8 +3,8 @@
 #  এখানে শুধু API keys ও settings বসাও
 # ══════════════════════════════════════════════════
 
-FIREBASE_API_KEY    = "YOUR_FIREBASE_API_KEY"
-FIREBASE_PROJECT_ID = "YOUR_FIREBASE_PROJECT_ID"
+FIREBASE_API_KEY    = "AIzaSyCBA8ZjarA5cYCboPv4eFuIReWpw6BU76A"
+FIREBASE_PROJECT_ID = "reviewpay-cc522"
 BACKEND_URL         = "https://your-app.railway.app"
 
 # ── Colors (User Panel = Green, Admin Panel = Navy) ──
